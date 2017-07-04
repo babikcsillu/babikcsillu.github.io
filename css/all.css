@@ -598,8 +598,13 @@ fieldset {
   .alt-section h3 {
     color: #d7ae5c; }
 
-h3, header nav a, header .kicker, footer .lockup .content-wrap a {
+header nav a, header .kicker, footer .lockup .content-wrap a {
   font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;}
+
+h3 {
+  font-size: 22px;
   font-weight: 700;
   text-transform: uppercase;}
 
