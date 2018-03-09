@@ -2,6 +2,12 @@ $(function() {
 	smoothScroll(300);
 	workBelt();
 	workLoad();
+	campaignBelt();
+	campaignLoad();
+	celebBelt();
+	celebLoad();
+	serviceBelt();
+	serviceLoad();
 	clientStuff();
 	
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
@@ -25,7 +31,6 @@ function smoothScroll (duration) {
 	});
 }
 
-
 function workBelt() {
   
   $(".trigger").remove();
@@ -42,7 +47,6 @@ function workBelt() {
   });
 
 }
-
 
 function  workLoad() {
   
@@ -61,7 +65,107 @@ function  workLoad() {
   
 }
 
+function campaignBelt() {
+  
+  $(".trigger").remove();
+  $(".return").remove();
 
+  $('.thumb-container-campaign label').click(function() {
+    $('.campaign-belt').addClass("slided");
+    $('.campaign-container').show();
+  });
+  
+  $('.campaign-return').click(function() {
+    $('.campaign-belt').removeClass("slided");
+    $('.campaign-container').hide(800);
+  });
+
+}
+
+function  campaignLoad() {
+  
+  $.ajaxSetup({ cache: true });
+  
+  $('.thumb-container-campaign label').click(function() {
+    var $this = $(this),
+        newTitle = $this.find('strong').text(),
+        newfolder = $this.find('.thumb-unit').data('folder'),
+        spinner = '<div class="loader">Loading...</div>',
+        newHTML = 'campaign/'+ newfolder;
+      
+    $('.project-load-campaign').html(spinner).load(newHTML);
+    $('.project-title-campaign').text(newTitle);
+  });
+  
+}
+
+function celebBelt() {
+  
+  $(".trigger").remove();
+  $(".return").remove();
+
+  $('.thumb-container-celeb label').click(function() {
+    $('.celeb-belt').addClass("slided");
+    $('.celeb-container').show();
+  });
+  
+  $('.celeb-return').click(function() {
+    $('.celeb-belt').removeClass("slided");
+    $('.celeb-container').hide(800);
+  });
+
+}
+
+function  celebLoad() {
+  
+  $.ajaxSetup({ cache: true });
+  
+  $('.thumb-container-celeb label').click(function() {
+    var $this = $(this),
+        newTitle = $this.find('strong').text(),
+        newfolder = $this.find('.thumb-unit').data('folder'),
+        spinner = '<div class="loader">Loading...</div>',
+        newHTML = 'celeb/'+ newfolder;
+      
+    $('.project-load-celeb').html(spinner).load(newHTML);
+    $('.project-title-celeb').text(newTitle);
+  });
+  
+}
+
+function serviceBelt() {
+  
+  $(".trigger").remove();
+  $(".return").remove();
+
+  $('.thumb-container-service label').click(function() {
+    $('.service-belt').addClass("slided");
+    $('.service-container').show();
+  });
+  
+  $('.service-return').click(function() {
+    $('.service-belt').removeClass("slided");
+    $('.service-container').hide(800);
+  });
+
+}
+
+function  serviceLoad() {
+  
+  $.ajaxSetup({ cache: true });
+  
+  $('.thumb-container-service label').click(function() {
+    var $this = $(this),
+        newTitle = $this.find('strong').text(),
+        newfolder = $this.find('.thumb-unit').data('folder'),
+        spinner = '<div class="loader">Loading...</div>',
+        newHTML = 'szolgaltatasok/'+ newfolder;
+      
+    $('.project-load-service').html(spinner).load(newHTML);
+    $('.project-title-service').text(newTitle);
+  });
+  
+}
 
 
 function clientStuff() {

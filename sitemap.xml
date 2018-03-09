@@ -1,21 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://babikcsillu.github.io/</loc>
-    <priority>0</priority>
+    <loc>https://babikcsillu.github.io/campaign/ph/</loc>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/csg/</loc>
+    <loc>https://babikcsillu.github.io/campaign/trend2/</loc>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/csg_paros/</loc>
+    <loc>https://babikcsillu.github.io/campaign/trend2b/</loc>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/mn/</loc>
+    <loc>https://babikcsillu.github.io/campaign/werk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/celeb/changedbycs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/celeb/csg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/celeb/csg_paros/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/celeb/mn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/celeb/zeneakademia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/szolgaltatasok/alkalmi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/szolgaltatasok/gardrob/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/szolgaltatasok/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/szolgaltatasok/imazs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/szolgaltatasok/personal/</loc>
   </url>
   
   <url>
@@ -43,23 +83,38 @@
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/ph/</loc>
+    <loc>https://babikcsillu.github.io/campaign/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/trend2/</loc>
+    <loc>https://babikcsillu.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/trend2b/</loc>
+    <loc>https://babikcsillu.github.io/celeb/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/werk/</loc>
+    <loc>https://babikcsillu.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://babikcsillu.github.io/work/zeneakademia/</loc>
+    <loc>https://babikcsillu.github.io/szolgaltatasok/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://babikcsillu.github.io/work/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
