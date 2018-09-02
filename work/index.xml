@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on StyledByCsillu</title>
+    <link>https://babikcsillu.github.io/work/</link>
+    <description>Recent content in Works on StyledByCsillu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Aug 2018 20:52:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://babikcsillu.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Divat Kampányok</title>
+      <link>https://babikcsillu.github.io/work/brand/</link>
+      <pubDate>Thu, 30 Aug 2018 20:52:24 +0200</pubDate>
+      
+      <guid>https://babikcsillu.github.io/work/brand/</guid>
+      <description>Remington Playersroom Trend2 PH Mátrix Werk
+       Remington Nagykövet kampány 2018
+
+              Playersroom online kreatív, 2017-2018
+
+      PH Mátrix reklámkampány fotózás, 2017
+
+       Trend2 2016-os kampányfotózás
+
+              Trend2 2015-ös kampányfotózás</description>
+    </item>
+    
+    <item>
+      <title>Médiaszereplések</title>
+      <link>https://babikcsillu.github.io/work/media/</link>
+      <pubDate>Thu, 30 Aug 2018 20:51:49 +0200</pubDate>
+      
+      <guid>https://babikcsillu.github.io/work/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Styling</title>
+      <link>https://babikcsillu.github.io/work/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://babikcsillu.github.io/work/personal/</guid>
+      <description>Portfólió Átalakítás Párfotózás
+      Modell Portfólió Fotók
+
+              Imázs fotózások, átalakítások
+
+         Párfotózások</description>
+    </item>
+    
+  </channel>
+</rss>
