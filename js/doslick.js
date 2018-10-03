@@ -17,7 +17,7 @@ $('.slickthisvideo').slick({
   speed: 500,
   swipe: true,
   cssEase: 'linear',
-  slidesToShow: 2,
+  slidesToShow: 1,
   adaptiveHeight: true,
   touchMove: true
 });
