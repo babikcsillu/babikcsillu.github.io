@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://styledbycsillu.hu/work/brand/</loc>
+    <loc>https://styledbycsillu.hu/stylist-munkaim/divatkampany/</loc>
     <lastmod>2018-08-30T20:52:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/work/media/</loc>
+    <loc>https://styledbycsillu.hu/stylist-munkaim/media/</loc>
     <lastmod>2018-08-30T20:51:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/pricing/alkalmi/</loc>
+    <loc>https://styledbycsillu.hu/personal-shopping/alkalmi-styling/</loc>
   </url>
   
   <url>
@@ -22,23 +22,32 @@
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/pricing/gardrob/</loc>
+    <loc>https://styledbycsillu.hu/stilustanacsadas/szepsegnap/</loc>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/pricing/home/</loc>
+    <loc>https://styledbycsillu.hu/stilustanacsadas/gardrobrendezes/</loc>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/pricing/personal/</loc>
+    <loc>https://styledbycsillu.hu/personal-shopping/home-shopping/</loc>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/work/personal/</loc>
+    <loc>https://styledbycsillu.hu/personal-shopping/vasarlas-stylisttal/</loc>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/pricing/</loc>
+    <loc>https://styledbycsillu.hu/stylist-munkaim/szemelyistyling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://styledbycsillu.hu/personal-shopping/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://styledbycsillu.hu/stilustanacsadas/</loc>
     <priority>0</priority>
   </url>
   
@@ -49,13 +58,17 @@
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/tags/</loc>
+    <loc>https://styledbycsillu.hu/stylist-munkaim/</loc>
+    <lastmod>2018-08-30T20:52:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://styledbycsillu.hu/work/</loc>
-    <lastmod>2018-08-30T20:52:24+02:00</lastmod>
+    <loc>https://styledbycsillu.hu/stilustanacsadas/szintanacsadas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://styledbycsillu.hu/tags/</loc>
     <priority>0</priority>
   </url>
   
