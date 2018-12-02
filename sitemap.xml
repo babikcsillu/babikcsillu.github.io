@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>https://styledbycsillu.hu/bccoriflame/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://styledbycsillu.hu/categories/</loc>
     <priority>0</priority>
   </url>
@@ -70,6 +75,10 @@
   <url>
     <loc>https://styledbycsillu.hu/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://styledbycsillu.hu/bccoriflame/vote/</loc>
   </url>
   
 </urlset>
